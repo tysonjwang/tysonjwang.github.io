@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Tyson Wang
+bio:                "I'm Tyson Wang, a Computer Science/Artificial Intelligence Major at Carnegie Mellon University"
+description:        "Tyson Wang's Website"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -11,14 +11,14 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
+twitter:            tysonjwang
 facebook:           default
 instagram:          default
-github:             default
+github:             tysonjwang
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
+location:           Pittsburgh, PA
+phone:              914-839-8711
 email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
